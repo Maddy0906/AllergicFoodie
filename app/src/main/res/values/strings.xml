@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">AllergicFoodie</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="intro">Choose your "Allergen Food".</string>
+    <string name="make_an_order">Choose</string>
+
+    <!--dialog text-->
+    <string name="dialog_title">Items</string>
+    <string name="ok_label">OK</string>
+    <string name="dismiss_label">Dismiss</string>
+    <string name="clear_all_label">Clear</string>
+
+
+    <!--FOOD-->
+    <string name="buckwheat">Buckwheat</string>
+    <string name="gluten">Gluten</string>
+    <string name="eggs">Eggs</string>
+    <string name="dairy">Dairy</string>
+    <string name="soy">Soy</string>
+    <string name="peanuts">Peanuts</string>
+    <string name="fish">Fish</string>
+    <string name="shellfish">Shellfish</string>
+    <string name="tree_nuts">Tree nuts</string>
+
+    <!--FOOD-->
+    <string name="buckwheat_jp">そば</string>
+    <string name="gluten_jp">小麦</string>
+    <string name="eggs_jp">卵</string>
+    <string name="dairy_jp">乳製品</string>
+    <string name="soy_jp">豆</string>
+    <string name="peanuts_jp">ピーナッツ</string>
+    <string name="fish_jp">魚</string>
+    <string name="shellfish_jp">甲殻類</string>
+    <string name="tree_nuts_jp">木の実</string>
+
+
+
+
+    <!--display text for a server-->
+    <string name="ex_allergy">I am allergic to these foods.
+Do you have any dishes without these?
+</string>
+
+    <string name="ex_allergy_jp">私はこれらの食品アレルギーです。これらが含まれていない食事はありますか?</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Food list -->
+    <dimen name="recycler_margin_horizontal">4dp</dimen>
+    <dimen name="recycler_margin_vertical">4dp</dimen>
+    <dimen name="recycler_layout_spacing">4dp</dimen>
+    <dimen name="recycler_item_footer_height_min">48dp</dimen>
+    <dimen name="recycler_item_footer_padding">16dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+</resources>
